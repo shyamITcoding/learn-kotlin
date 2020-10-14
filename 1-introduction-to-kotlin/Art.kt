@@ -27,4 +27,17 @@ fun main() {
 
     // Use a single print statement to output image
     println("     .....\n  .         .\n .   0  0    .\n  ...........\n   .. __ ..\n  . .|C_|. .\n .  ......  .\n     .  .\n     .  .  ")
+     
+     //shyam's Ascii 
+     /*
+    ...
+   .....
+  ((*.*))
+    IYI
+   |_|_|
+*/
+ //code for above ascii with background
+     fun main(){
+  println("#############\n####...######\n###.....#####\n##((*.*))####\n####III######\n###|_|_|#####\n#############")
+}
 }
